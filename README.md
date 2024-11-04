@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Z1Tev64H)
+# Calculator Project
+
+A simple calculator built with HTML, CSS, and JavaScript, featuring basic arithmetic operations with a 9-digit limit on input and results.
+
+## Features
+- **Basic Operations**: Addition, subtraction, multiplication, and division.
+- **Additional Functions**: Percentage calculation, sign toggle, and decimal points.
+- **Input and Result Limit**: Restricts all inputs and results to a maximum of 9 digits.
+
+## Files
+- `index.html` - Structure of the calculator.
+- `style.css` - Styling for the calculator layout and buttons.
+- `script.js` - JavaScript logic for handling operations and digit limits.
